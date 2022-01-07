@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../../../../layout/compose-model-1634198898801.xml" value="0.27280405405405406" />
+        <entry key="../../../../../../../../../../layout/compose-model-1635684812147.xml" value="0.12950066091568846" />
+        <entry key="../../../../../../../../../../layout/compose-model-1635685096819.xml" value="0.41944444444444445" />
+        <entry key="../../../../../../../../../../layout/compose-model-1635692081072.xml" value="0.1" />
+        <entry key="../../../../../../../../../../layout/compose-model-1635693992687.xml" value="0.24444444444444444" />
+        <entry key="../../../../../../../../../../layout/compose-model-1635703128370.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/madi/Documents/Egyetem/2021_Osz/Temalab/mappa/freelancer/Android/freelancer/app/src/main/res/drawable/appIcon_background.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/madi/Documents/Egyetem/2021_Osz/Temalab/mappa/freelancer/Android/freelancer/app/src/main/res/drawable/appicon_background.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/madi/Documents/Egyetem/2021_Osz/Temalab/mappa/freelancer/Android/freelancer/app/src/main/res/layout/activity_start.xml" value="0.14" />
+        <entry key="..\:/Users/madi/Documents/Egyetem/2021_Osz/Temalab/mappa/freelancer/Android/freelancer/app/src/main/res/layout/test.xml" value="0.55" />
+        <entry key="..\:/Users/madi/Documents/Egyetem/2021_Osz/Temalab/mappa/freelancer/Android/freelancer/app/src/main/res/mipmap-anydpi-v26/appIcon.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/madi/Documents/Egyetem/2021_Osz/Temalab/mappa/freelancer/Android/freelancer/app/src/main/res/mipmap-mdpi/box_round.xml" value="0.690625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
