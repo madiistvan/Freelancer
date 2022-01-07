@@ -1,6 +1,7 @@
 # Freelancer
 University Training Project Laboratory course project. 
-Packaghe delivery application.
+
+Package delivery application.
 
 Used technologies:
 * JetpackCompose
